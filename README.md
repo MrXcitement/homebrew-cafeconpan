@@ -1,4 +1,8 @@
-# Mrxcitement Cafeconpan
+# MrXcitement's Cafe con pan, tasty Homebrew formula
+
+## Menu of Formula
+
+- [xtermcontrol](https://thrysoee.dk/xtermcontrol/) -- Enable dynamic control of xterm properties.
 
 ## How do I install these formulae?
 
