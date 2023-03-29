@@ -23,6 +23,6 @@ class Xtermcontrol < Formula
     #
     # The installed folder is not in the path, so use the entire path to any
     # executables being tested: `system "#{bin}/program", "do", "something"`.
-    system "false"
+    assert_match "xtermcontrol 3.8", shell_output("#{bin}/xtermcontrol --version").strip
   end
 end
