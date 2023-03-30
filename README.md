@@ -1,4 +1,5 @@
-# MrXcitement's Cafe con pan, tasty Homebrew formula
+# Homebrew CafeConPan Tap
+A tap of tasty formula
 
 ## Menu of Formula
 
